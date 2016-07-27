@@ -21,6 +21,7 @@ public class TesteHeroi {
 		samusAran = new Heroi("Samus", 90.0);
 		sylvanas = new Heroi("Sylvanas",50);
 		
+		
 		//Mario causa:
 		//   dano total de: 30
 		//   cura total de: 10
